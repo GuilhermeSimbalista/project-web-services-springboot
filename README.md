@@ -11,4 +11,6 @@
 - Tratamento de exceções 
 
 ## Modelo de domínio
+![Domain Model](assets/model.PNG)
+
 
